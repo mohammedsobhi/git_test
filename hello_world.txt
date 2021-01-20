@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-something soemthing something
-
-another test
-
-=======
-something something something
->>>>>>> 59c38cd26fb1c46f98585215a8443868b23eea12
+Mohammed Ramadan
